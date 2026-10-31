@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-labelledby="title">
+  <title id="title">SpinJozi logo option B: Jozi skyline spin</title>
+  <rect width="1200" height="400" rx="56" fill="#fff8ef"/>
+  <g transform="translate(64 57)"><circle cx="142" cy="142" r="133" fill="#6f3c95"/><circle cx="142" cy="142" r="89" fill="none" stroke="#d3f36b" stroke-width="18" stroke-dasharray="260 58" transform="rotate(-42 142 142)"/><path d="M65 201h151v31H65zm14-43h17v43H79zm31-65h24v108h-24zm39 29h18v79h-18zm33-73h23v152h-23z" fill="#ff8b78"/><circle cx="142" cy="66" r="21" fill="#d3f36b"/></g>
+  <text x="356" y="164" fill="#20152e" font-family="Arial Black, Arial, sans-serif" font-size="112" font-weight="900" letter-spacing="-8">SPINJOZI</text><path d="M364 193h709" stroke="#ff8b78" stroke-width="10"/><text x="370" y="247" fill="#6f3c95" font-family="Arial, sans-serif" font-size="28" font-weight="800" letter-spacing="6">PUT YOUR EVENT IN MOTION</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-labelledby="title">
+  <title id="title">SpinJozi logo option A: spinning lens</title>
+  <defs><linearGradient id="a" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#ff8b78"/><stop offset="1" stop-color="#6f3c95"/></linearGradient></defs>
+  <rect width="1200" height="400" rx="56" fill="#20152e"/>
+  <g transform="translate(77 77)"><circle cx="123" cy="123" r="112" fill="none" stroke="#d3f36b" stroke-width="22"/><path d="M123 4a119 119 0 0 1 103 60L151 107a38 38 0 0 0-54-16Z" fill="url(#a)"/><path d="M230 185A119 119 0 0 1 127 242l-4-86a38 38 0 0 0 33-18Z" fill="#ff8b78"/><path d="M87 234A119 119 0 0 1 12 134l85-12a38 38 0 0 0 24 34Z" fill="#6f3c95"/><circle cx="123" cy="123" r="31" fill="#fffaf4"/></g>
+  <text x="335" y="175" fill="#fffaf4" font-family="Arial Black, Arial, sans-serif" font-size="118" font-weight="900" letter-spacing="-8">SPIN</text><text x="675" y="175" fill="#ff8b78" font-family="Arial Black, Arial, sans-serif" font-size="118" font-weight="900" letter-spacing="-8">JOZI</text><text x="343" y="245" fill="#d3f36b" font-family="Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="9">360° PHOTO BOOTH EXPERIENCES</text>
+</svg>
